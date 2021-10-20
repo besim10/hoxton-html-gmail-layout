@@ -42,7 +42,7 @@ p {
     'header         header  header          header' 60px
     'left-menu-1    main    right-menu-1    right-menu-2' 1fr
     'left-menu-2    main    right-menu-1    right-menu-2' 1fr /
-    3fr            600px     3fr             1fr;
+    3fr            5fr     3fr             1fr;
     height: 100vh;
     padding: 30px;
     grid-gap: 10px;
@@ -57,7 +57,7 @@ p {
         'header     header header' 60px
         'left-menu-1  main right-menu-1' 1fr
         'left-menu-2  main right-menu-1' 1fr /
-        3fr 600px 3fr;
+        3fr 5fr 3fr;
     }
 }
   
@@ -70,6 +70,6 @@ p {
         'header         header' 60px
         'left-menu-1    main' 200px
         'left-menu-2    main' 1fr /
-        1fr 400px;
+        1fr 4fr;
     }
 } 
