@@ -44,7 +44,8 @@ p {
     'left-menu-2    main    right-menu-1    right-menu-2' 1fr /
     3fr            5fr     3fr             1fr;
     height: 100vh;
-    padding: 30px;
+    width: 100wh;
+    /* padding: 30px; */
     grid-gap: 10px;
 }
 @media screen and (max-width: 600px) {
